@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  SecondChallenge
+//  SecondProject
 //
-//  Created by 김시훈 on 2022/09/27.
+//  Created by 김시훈 on 2022/09/28.
 //
 
 import UIKit
